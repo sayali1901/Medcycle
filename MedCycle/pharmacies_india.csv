@@ -1,0 +1,61 @@
+pharmacy_id,pharmacy_name,city,country,latitude,longitude,contact_email
+259a208f-b313-463e-ad3d-5a782afc4090,MedTrust Pharmacy,New Delhi,India,28.392133,77.353852,pharma-5359@newdelhi.in
+45d66cbe-30ed-418c-8b1b-685a2345027c,JeevanDhara Pharmacy,New Delhi,India,28.382665,77.07351,pharma-1685@newdelhi.in
+d7f73f8d-0afc-48dd-a24c-2b6bd4e3c0d0,Swasthya Pharmacy,Pune,India,18.26524,74.001175,pharma-9557@pune.in
+3fb21c16-33c8-446a-ab05-587010a68ee0,LifeCare Pharmacy,New Delhi,India,28.699713,77.451743,pharma-9520@newdelhi.in
+47e3d1e6-f711-4216-9547-fb205f50c5bd,Nirog Pharmacy,Patna,India,25.527912,85.014004,pharma-8753@patna.in
+9ec0ce50-f84a-4bc1-b5e5-4d2a979774e7,JeevanDhara Pharmacy,Agra,India,27.097978,77.808184,pharma-8036@agra.in
+df82c109-e962-46ab-acdc-843a99dbee27,Aushadhi Pharmacy,Agra,India,27.390998,78.514595,pharma-6620@agra.in
+bf1789f7-ed7d-4a6e-8dd1-b7c49f0e3a62,Swasthya Pharmacy,Ludhiana,India,30.791428,75.946205,pharma-6918@ludhiana.in
+15e32181-8ff9-4fed-89e7-327f8420de18,LifeCare Pharmacy,Rajkot,India,22.280577,70.868461,pharma-1937@rajkot.in
+f19bc0eb-bd28-4448-a86e-a63d10a12ae8,Aushadhi Pharmacy,Nashik,India,20.156455,73.618336,pharma-2641@nashik.in
+3b44492a-ac0a-4d6a-8f61-9f00fcae3188,Nirog Pharmacy,New Delhi,India,28.542111,77.389473,pharma-7583@newdelhi.in
+12ba8031-c15e-414a-8af5-e7e94b61423b,MedTrust Pharmacy,Jaipur,India,26.988725,75.836398,pharma-3013@jaipur.in
+2572a7ff-fcfa-4a13-b978-cea06e2b8ac3,CarePlus Pharmacy,Kochi,India,10.007653,76.358484,pharma-5072@kochi.in
+60cf1de2-bdf3-422d-aa8a-012631150d91,Nirog Pharmacy,Faridabad,India,28.582565,77.430866,pharma-8785@faridabad.in
+baf0e5ec-a463-4fa4-b4c6-fb8c990b5190,LifeCare Pharmacy,Coimbatore,India,11.009191,77.008755,pharma-4079@coimbatore.in
+2cc82d18-4d2c-48bd-adff-c4323a09936c,Aushadhi Pharmacy,New Delhi,India,28.603786,77.097078,pharma-1272@newdelhi.in
+3017a554-860a-40f0-8540-e1e05436e408,MedTrust Pharmacy,Faridabad,India,28.401156,77.300728,pharma-6333@faridabad.in
+26092a7e-f9be-4822-8738-4744dc01e4c3,Swasthya Pharmacy,Varanasi,India,25.062886,83.09014,pharma-8938@varanasi.in
+d08f0754-ff5f-4c50-9d7f-ab798e4b66f7,JeevanDhara Pharmacy,Rajkot,India,22.44557,70.883771,pharma-2333@rajkot.in
+8b1d3949-0c58-4fc4-aee6-8b630789fb75,LifeCare Pharmacy,Nashik,India,20.130206,73.763414,pharma-8800@nashik.in
+97b7853a-fc1a-4165-9884-d639ed09cf42,LifeCare Pharmacy,Pune,India,18.443289,73.999036,pharma-5814@pune.in
+17f58a8b-1d61-43ae-b037-bcdb993c933d,Swasthya Pharmacy,Jodhpur,India,26.080082,72.860284,pharma-3345@jodhpur.in
+c3f766ab-12e1-4ba4-9099-a0a32838fb3c,JeevanDhara Pharmacy,Kochi,India,9.998421,76.330414,pharma-9267@kochi.in
+bd3007fb-db6d-49bb-9efd-04deec25ea5d,WellSpring Pharmacy,Bengaluru,India,13.111111,77.338034,pharma-9158@bengaluru.in
+56c50651-ef56-4af5-8de2-738a53105b77,CarePlus Pharmacy,Kolkata,India,22.557939,88.194345,pharma-9990@kolkata.in
+9bc6956e-6d23-4fd5-aec3-16bf14e2a315,WellSpring Pharmacy,Srinagar,India,34.211994,74.997362,pharma-8311@srinagar.in
+d3a5b0a4-6dd8-4ed1-948e-9348af17e64d,Nirog Pharmacy,Ahmedabad,India,23.098174,72.487723,pharma-9858@ahmedabad.in
+b71dd003-dcfd-4c75-8259-bd18d4c9324b,Swasthya Pharmacy,Bhopal,India,23.147612,77.350826,pharma-4467@bhopal.in
+0c952575-fd2b-4d6b-bd2f-9bc9ef3deb6f,HealthKart Pharmacy,Lucknow,India,26.720531,80.922314,pharma-2728@lucknow.in
+963ec8f6-123f-4b63-92b4-a68dcaf9e149,MedTrust Pharmacy,Vasai-Virar,India,19.27927,72.632453,pharma-3625@vasai-virar.in
+2ee53898-e3bf-4bc2-bf3f-47fa61dce07c,LifeCare Pharmacy,Ludhiana,India,30.957097,75.925974,pharma-5593@ludhiana.in
+ee864de1-9faa-4f79-9a66-c0d50e355264,CarePlus Pharmacy,Thane,India,19.473213,72.913121,pharma-8803@thane.in
+905fc183-3033-4abd-b12d-c8c5bfe29710,WellSpring Pharmacy,Ahmedabad,India,22.738969,72.693695,pharma-9757@ahmedabad.in
+81669503-54fa-4473-9e86-3821115e9d6d,HealthKart Pharmacy,Ranchi,India,23.483263,85.4809,pharma-6452@ranchi.in
+5486d9dd-c88b-4f14-9340-043e7a79f8bf,JeevanDhara Pharmacy,Thane,India,19.438999,73.20093,pharma-2059@thane.in
+81cd8c90-836f-44ac-aee9-a2340b6654cb,LifeCare Pharmacy,Agra,India,27.030184,78.240312,pharma-7252@agra.in
+164944b4-362c-40fc-be3d-1a4c143a8ce7,LifeCare Pharmacy,Trichy,India,10.741295,78.824466,pharma-4823@trichy.in
+62fe1f51-8585-4689-9cf7-d8427044dfcd,CarePlus Pharmacy,Thane,India,19.257224,72.832188,pharma-2895@thane.in
+8b9f0266-6aa2-4abc-b421-7e4ea8eaa6e5,HealthKart Pharmacy,Vadodara,India,22.481254,73.112785,pharma-2824@vadodara.in
+08151c01-f165-46d5-b651-0e73cad16ba9,Aushadhi Pharmacy,Kolkata,India,22.851416,88.249414,pharma-4082@kolkata.in
+18880e98-ec18-438f-a4e6-cd2955e07faa,JeevanDhara Pharmacy,Ahmedabad,India,22.871832,72.471969,pharma-7025@ahmedabad.in
+198c728c-9835-4cd6-9413-c240839f99d4,Aushadhi Pharmacy,Jaipur,India,27.13668,75.55222,pharma-7229@jaipur.in
+64d653c2-1e7c-4430-811d-b566365ecb40,MedTrust Pharmacy,Visnagar,India,23.83696,72.824854,pharma-6092@visnagar.in
+51f85d8b-2d22-41ca-8c88-b4b4b07ee47b,JeevanDhara Pharmacy,Hyderabad,India,17.359593,78.427737,pharma-9775@hyderabad.in
+82e15b99-cd45-4c6e-aa3b-7de2a2aa44b1,LifeCare Pharmacy,Nagpur,India,21.157784,78.919839,pharma-7941@nagpur.in
+bb994fce-6dc0-4063-8c89-e97ae652917d,Aushadhi Pharmacy,Ludhiana,India,31.29724,75.957772,pharma-3069@ludhiana.in
+241f23a0-b06f-432f-a95a-b5ddb465fa06,JeevanDhara Pharmacy,Kochi,India,9.748123,76.146222,pharma-4639@kochi.in
+b5302b71-ad64-4303-80f4-fa48733d05e9,LifeCare Pharmacy,Pune,India,18.54727,73.662536,pharma-1150@pune.in
+8c9ab1e6-ebc1-492a-bb21-2fe125d6f204,Nirog Pharmacy,Madurai,India,9.699552,78.163865,pharma-6176@madurai.in
+6d9b8151-4960-4cb2-aefa-73d78d01a077,CarePlus Pharmacy,Surat,India,21.3211,72.968383,pharma-4586@surat.in
+619dda1f-321d-45ec-a7d1-d81046aa6c63,Nirog Pharmacy,Ranchi,India,23.335139,85.268424,pharma-3415@ranchi.in
+181a2f17-fbd0-43d3-b1b9-16b4b2e60d64,CarePlus Pharmacy,Jodhpur,India,26.246651,73.173119,pharma-3389@jodhpur.in
+50cd01d4-47fd-4775-8a85-98587520adf8,JeevanDhara Pharmacy,Bengaluru,India,12.783085,77.477987,pharma-6245@bengaluru.in
+fc017bd6-ceaa-4631-9fa9-e0dd8511a275,Aarogyam Pharmacy,Ghaziabad,India,28.612535,77.417464,pharma-3022@ghaziabad.in
+66e94758-1a6d-4790-89f6-4aa7e78b099b,JeevanDhara Pharmacy,Patna,India,25.585929,85.133865,pharma-8836@patna.in
+322100ae-a1b6-40b3-be0b-5d11805827f6,Nirog Pharmacy,Indore,India,22.820704,75.593278,pharma-5775@indore.in
+60304a52-7b9b-40b8-a453-3e7c81161b99,MedTrust Pharmacy,Meerut,India,28.744284,77.606621,pharma-6458@meerut.in
+52ce2b2d-0bdc-4f0a-b9de-fbb9535cffcb,Swasthya Pharmacy,Surat,India,21.299738,72.733308,pharma-4687@surat.in
+23708343-d121-4e7a-a02d-e8d8daae9589,WellSpring Pharmacy,Hyderabad,India,17.378838,78.505921,pharma-8987@hyderabad.in
+fceae326-2068-4f73-865f-03482116a2d4,CarePlus Pharmacy,Rajkot,India,22.351315,71.036886,pharma-3608@rajkot.in
